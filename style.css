@@ -788,7 +788,7 @@ input[type=submit][disabled] {
 
 .footer {
     margin-top: 80px;
-    background-color: #24292e;
+    background-color: #000000;
     box-shadow: rgba(0, 0, 0, .3) 0px -1px 10px
 }
 
