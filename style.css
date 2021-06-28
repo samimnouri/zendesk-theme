@@ -1026,7 +1026,7 @@ input[type=submit][disabled] {
     content: "";
     opacity: .75;
     background-color: #24292e;
-    background-image: linear-gradient(60deg, #397b56 20%, #24292e 70%)
+    background-image: linear-gradient(60deg, #e9a900 20%, #000 70%)
 }
 
 .hero-large::before {
