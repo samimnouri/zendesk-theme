@@ -47,7 +47,7 @@ h4 {
 }
 
 a {
-    color: #0366d6;
+    color: #e9a900;
     text-decoration: none
 }
 
@@ -1230,7 +1230,7 @@ input[type=submit][disabled] {
 }
 
 .blocks-item-internal a {
-    color: #24292e
+    color: #e9a900
 }
 
 .blocks-item-link {
